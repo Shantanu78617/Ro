@@ -12,11 +12,11 @@ import secrets
 import string
 import os
 import traceback
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import ssl
 
 # Load environment variables from .env file for local development
-load_dotenv()
+#load_dotenv()
 
 # Page configuration
 st.set_page_config(
